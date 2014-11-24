@@ -12,7 +12,7 @@ tell application "iTerm"
     tell mysession
 
       exec command "/bin/sh"
-      write text "sh $HOME/.swank/stop-swank.sh &"
+      write text "sh $HOME/.swank/stop-swank.sh"
       write text "exit"
 
 
