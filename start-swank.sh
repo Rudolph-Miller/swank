@@ -1,1 +1,1 @@
-sbcl --load ~/.swank/swank.lisp
+ros ~/.swank/swank.lisp
