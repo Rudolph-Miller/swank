@@ -1,4 +1,4 @@
-Swank setting
+Swank setting of Apple Script for Slimev
 ===
 
 1. start-swank.scpt
